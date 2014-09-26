@@ -16,6 +16,11 @@ link_directories(${GLIB_LIBRARY_DIRS})
 link_directories(${GTK_LIBRARY_DIRS})
 
 set(VALA_SRC
+
+  resources/item.vala
+  resources/list.vala
+  resources/user.vala
+
   views/window_main.vala
   lunatodo.vala
 )
