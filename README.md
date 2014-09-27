@@ -1,5 +1,4 @@
-Deezer Client
-=============
+Gtk Client for Luna ToDo
+========================
 
-A [Deezer](http://deezer.com) client for Phantheon Environment.
 

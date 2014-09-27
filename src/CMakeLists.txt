@@ -21,7 +21,9 @@ set(VALA_SRC
   resources/list.vala
   resources/user.vala
 
+  views/auth_dialog.vala
   views/window_main.vala
+
   lunatodo.vala
 )
 
